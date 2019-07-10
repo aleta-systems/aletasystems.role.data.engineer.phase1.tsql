@@ -11,7 +11,7 @@ This How-To will show you how to start the docker container
 7. `Attach`(Connect) to the Local SQL Server Instance `Localhost, 14333` | `sa` | `P@ssw0rd!` (default and based on step 2 values)
 
 ## Screencast
-![SSMS Connection](./assets/00-start-docker.gif "Start Docker")
+![Start Docker](./assets/00-start-docker.gif "Start Docker")
 
 
 > Note: If you have any issues with starting the container please restart docker, Restart your computer.
