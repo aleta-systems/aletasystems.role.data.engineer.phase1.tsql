@@ -1,6 +1,6 @@
-# How To Start Docker Container
+# How To Start/Connect to Azure Data Studio
 
-This How-To will show you how to connect to the Docker container you just created & open the ipynb file.
+This How-To will show you how to connect to the Docker container you just created & open the `.ipynb` file.
 
 1. Open Azure Data Studio
 2. Open the folder
