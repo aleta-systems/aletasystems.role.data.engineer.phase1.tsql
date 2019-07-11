@@ -2,7 +2,7 @@
 
 |||
 |-|-|
-|Default Evaluation Document|[Technical-Evaluation](.\Technical-Evaluation.md)|
+|Default Evaluation Document|[Technical-Evaluation](./Technical-Evaluation.md)|
 
 The database you will be querying on is based on  Wide World Importers sample database and is documented below
 

@@ -10,8 +10,8 @@ This document describes the evaluation process.
 
 ## Technical Questions
 
-- [10-Basic-Query](../Technical-Questions/10-AzureDataStudio-SQLNoteBook-Basic.ipynb)
-- [20-Intermediate-Query-01](../Technical-Questions/20-AzureDataStudio-SQLNoteBook-Intermediate-01.ipynb)
+- [10-Basic-Query](./Technical-Questions/10-AzureDataStudio-SQLNoteBook-Basic.ipynb)
+- [20-Intermediate-Query-01](./Technical-Questions/20-AzureDataStudio-SQLNoteBook-Intermediate-01.ipynb)
 
 ## Submission
 
