@@ -5,12 +5,6 @@ The database you will be querying on is, Wide World Importers sample database an
 - Overview of Wide World Importers [here](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-2017)
 - Wide World Importers database catalog/schema [here](https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-oltp-database-catalog?view=sql-server-2017)
 
-|||
-|-:|:-|
-|**TimeLimit**|None|
-|**Open-book**|Yes|
-|**Evaluation Method**|Automated|
-
 ## Technical Questions
 
 - [10-Basic-Query](./Technical-Questions/10-AzureDataStudio-SQLNoteBook-Basic.ipynb)
