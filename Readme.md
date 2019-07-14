@@ -11,9 +11,9 @@ You will need access to a machine (Windows/Mac/Linux) with the following install
 - Azure Data Studio ([download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017))
 - _Alternatively_ SQL Server Management Studio. ([download](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017))
 
-## How to guide
+## Instructions
 
 1. Start Docker Container ([doc](./How-To/00-Start-Docker-Container.md))
-2. Open Technical Question 
-    - in Azure DataStudio `*.ipynb` ([doc](./How-To/01-Connect-To-AzureDataStudio.md))
+2. Open Technical Question located in `Technical-Questions` folder 
+    - (recommended) in Azure DataStudio `*.ipynb` ([doc](./How-To/01-Connect-To-AzureDataStudio.md))
     - in SSMS & GitHub ([doc](./How-To/02-Use-SSMS-Instead.md))
