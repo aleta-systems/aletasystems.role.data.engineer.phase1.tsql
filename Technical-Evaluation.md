@@ -8,6 +8,8 @@ The database you will be querying on is, Wide World Importers sample database an
 ## Technical Questions
 
 - [10-Basic-Query](./Technical-Questions/10-AzureDataStudio-SQLNoteBook-Basic.ipynb)
+- [11-Basic-Level-1](./Technical-Questions/11-AzureDataStudio-SQLNoteBook-Basic.ipynb)
+- [12-Basic-Level-2](./Technical-Questions/12-AzureDataStudio-SQLNoteBook-Basic.ipynb)
 - [20-Intermediate-Query-01](./Technical-Questions/20-AzureDataStudio-SQLNoteBook-Intermediate-01.ipynb)
 
 ## Submission
