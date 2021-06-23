@@ -3,8 +3,8 @@
 This How-To will show you how to start the docker container
 
 1. Download the latest docker image `docker pull aletasystems/role.data.engineer.phase1`
-2. Run the container `docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=P@ssw0rd!" -p 14333:1433 --name technicalscreen -d aletasystems/role.data.engineer.phase1` (_take note of the hash output value_)
-3. _Wait for 2 minutes._
+2. Run the container `docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=P@ssw0rd!" -p 14333:1433 --name technicalscreen -d aletasystems/role.data.engineer.phase1`
+3. _**Wait** for 2 minutes, this is to allow the db to restore_ 
 4. Open Azure Data Studio
 5. Open the folder
 6. Open the `Technical-Questions\**-AzureDataStudio-SQLNoteBook-*.ipynb` file
