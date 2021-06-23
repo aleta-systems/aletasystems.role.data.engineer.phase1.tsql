@@ -13,7 +13,15 @@ You will need access to a machine (Windows/Mac/Linux) with the following install
 
 ## Instructions
 
+1. Use this template repo ([doc](./How-To/10-Use-A-Template-Repo.md))
 1. Start Docker Container ([doc](./How-To/00-Start-Docker-Container.md))
-2. Open Technical Question located in `Technical-Questions` folder 
+1. Open Technical Question located in `Technical-Questions` folder
     - (recommended) in Azure DataStudio `*.ipynb` ([doc](./How-To/01-Connect-To-AzureDataStudio.md))
     - in SSMS & GitHub ([doc](./How-To/02-Use-SSMS-Instead.md))
+1. Complete the tasks mentioned in your email
+    1. For Azure DataStudio, Save the notebook file (with results).
+    1. For SSMS, save your queries in SSMS-TSQL folder
+1. Invite Oneview to review ([doc](./How-To/11-Give-Oneview-Access.md))
+1. Respond to your email saying that you've completed the task.
+
+Finally, we wish you all the best!
