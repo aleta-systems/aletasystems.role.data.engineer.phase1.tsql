@@ -9,7 +9,7 @@ This How-To will show you how to start the docker container
 5. Open the folder
 6. Open the `Technical-Questions\**-AzureDataStudio-SQLNoteBook-*.ipynb` file
 7. `Attach`(Connect) to the Local SQL Server Instance `Localhost, 14333` | `sa` | `P@ssw0rd!` (default and based on step 2 values)
-8 When done to stop, remove and dispose of the container `docker rm <<hash from step2>> -f`
+8. When done to stop, remove and dispose of the container `docker rm <<hash from step2>> -f`
 
 
 ## Screencast
