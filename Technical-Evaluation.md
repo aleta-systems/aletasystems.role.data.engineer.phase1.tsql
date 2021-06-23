@@ -12,6 +12,8 @@ The database you will be querying on is, Wide World Importers sample database an
 - [12-Basic-Level-2](./Technical-Questions/12-AzureDataStudio-SQLNoteBook-Basic.ipynb)
 - [20-Intermediate-Query-01](./Technical-Questions/20-AzureDataStudio-SQLNoteBook-Intermediate-01.ipynb)
 
+_Note: sometimes GitHub doesn't render these pages properly if that happens please reload_
+
 ## Submission
 
 > Please see instructions in your email from careers team.
